@@ -28,6 +28,10 @@ Go to the Official website and copy the server IP and paste the server IP in the
 ## Authors
 - [Im_NotCool](https://github.com/fir15playz)
 
+## Credits
+- [@FQQD](https://github.com/FQQD) - Top Navbar
+- [HerrFisch](https://github.com/HerrFisch) - Website Inspration
+
 ## Lastly...
 If you have any further question or want to help and contribute, the best ways to do this are
 - Report an [Issue](https://github.com/fir15playz/Velocity-SMP/issues) if you find any problems on the website.
