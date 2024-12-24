@@ -24,6 +24,8 @@ Go to the Official website and copy the server IP and paste the server IP in the
 
 ## Screenshots
 (W.I.P.) Screenshots will be coming soon!
+![screenshot](https://github.com/user-attachments/assets/3062e480-22cd-4527-ad9a-7f15e9488b51)
+
 
 ## Authors
 - [Im_NotCool](https://github.com/fir15playz)
