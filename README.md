@@ -30,7 +30,7 @@ Go to the Official website and copy the server IP and paste the server IP in the
 
 ## Lastly...
 If you have any further question or want to help and contribute, the best ways to do this are
-- Creating an [issue report](https://github.com/fir15playz/Velocity-SMP/issues) if you find any problems on the website
+- Report an [Issue](https://github.com/fir15playz/Velocity-SMP/issues) if you find any problems on the website.
 - Join [my Discord](https://discord.gg/Nxh2zXxYJ7) and ask for help
 
 Here's a cookie for reading this far: 🍪
