@@ -1,3 +1,5 @@
+![VelocitySMP-MC-Title](https://github.com/user-attachments/assets/e1b4565c-7639-4f09-a3e8-9b70b6f90ead)
+
 # Velocity SMP Official Website
 
 ### Welcome to the Official Website of Velocity SMP
