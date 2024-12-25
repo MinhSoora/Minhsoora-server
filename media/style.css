@@ -690,7 +690,7 @@ body {
         margin-left: 1rem;
     }
     .main1_logo {
-        max-width: 16rem;
+        max-width: 16rem; /* Defualt 16rem */
     }
     .main1_description {
         font-size: 2.5rem;
