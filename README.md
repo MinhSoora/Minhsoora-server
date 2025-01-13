@@ -10,7 +10,6 @@ Embark on epic quests, build magnificent structures, or simply let your creativi
 
 
 ## Features of Website
-
 - Server address copy button
 - Modern design
 - Discord server embed
@@ -23,6 +22,9 @@ Embark on epic quests, build magnificent structures, or simply let your creativi
 
 ## How to Join
 Go to the Official website and copy the server IP and paste the server IP in the join server tab in minecraft.
+
+## Website Version
+
 
 ## Screenshots
 (W.I.P.) Screenshots will be coming soon!
